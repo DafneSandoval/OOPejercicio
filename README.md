@@ -1,2 +1,3 @@
-# OOPejercicio
-Ejercicio Object Oriented Programming - Advanced
+# OOP-Ejercicio
+---
+## Ejercicio Object Oriented Programming - Advanced
